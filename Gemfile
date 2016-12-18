@@ -50,4 +50,6 @@ gem 'bootstrap', '~> 4.0.0.alpha3'
 gem 'bootstrap-sass'
 gem 'bootstrap-generators'
 gem 'record_tag_helper', '~> 1.0'
-gem "paperclip", "~> 5.0.0"
+gem "paperclip", '~>4.2'
+gem 'paperclip-googledrive-new'
+gem 'google-api-client', '0.8.2', require: 'google/api_client'

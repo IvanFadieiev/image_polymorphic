@@ -1,0 +1,13 @@
+application_name: deech
+application_version: 1.0.0
+client_id: '354456063036-qmm137l2veba2hqun2ioovd50710suh0.apps.googleusercontent.com'
+client_secret: 'VCxk67ucUSp2nkrx-PaLhiRd'
+access_token: 'ya29.Ci-4A8XC_Y8pE4TmGT6bgAgbwy2u_81Jp3srsDIk-rdyFpOAnekQLSqd9XllpMTTMA'
+refresh_token: '1/-31UNvquTERFRxaNc4HPewr0asouMZXCtGOVegpNJ3c'
+folder_id: '0B_O5YQUKw2SiOGFDMXo4VWo3OU0'
+# client = Google::APIClient.new
+# client.authorization.client_id = '354456063036-qmm137l2veba2hqun2ioovd50710suh0.apps.googleusercontent.com'
+# client.authorization.client_secret = 'VCxk67ucUSp2nkrx-PaLhiRd'
+# client.authorization.access_token = 'ya29.Ci-4A8XC_Y8pE4TmGT6bgAgbwy2u_81Jp3srsDIk-rdyFpOAnekQLSqd9XllpMTTMA'
+# client.authorization.refresh_token = '1/-31UNvquTERFRxaNc4HPewr0asouMZXCtGOVegpNJ3c'
+
